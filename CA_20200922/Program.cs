@@ -8,7 +8,7 @@ namespace CA_20200922
         static void Main()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("Ruszki Dániel");
+            Console.WriteLine("Ruszki Dániel vagyok");
             for (int i = 0; i < 100; i++)
             {
                 Console.ForegroundColor = (ConsoleColor)RND.Next(1, 16);
