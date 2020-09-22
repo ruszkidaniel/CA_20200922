@@ -16,6 +16,7 @@ namespace CA_20200922
                     RND.Next(Console.WindowWidth),
                     RND.Next(Console.WindowHeight));
                 Console.Write("Juhász Zoltán");
+                //comment
             }
             Console.ReadKey();
         }
